@@ -1,4 +1,5 @@
 # HI_galaxy_pair
+## Catalog HI majors Pairs
 This table includes 440 HI detected galaxy pairs. The columns show 
 - (1) the ID of matched galaxy in galaxy pairs; 
 - (2) HI ID in FASHI catalog; 
@@ -13,3 +14,8 @@ This table includes 440 HI detected galaxy pairs. The columns show
 - (11) HI mass; 
 - (12) redshift of HI from FASHI catalog; 
 - (13) type of galaxy pair
+
+## Data in Feng19
+This table contains the full parameters of Feng+19.
+
+Column 1 is the galaxy ID in table catalog_HI_major_pairs.csv. Column 2-8 are the matched parameters of pairs in Feng+19, including pair ID, coordinates, and redshifts.
