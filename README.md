@@ -1,13 +1,13 @@
 # HI_galaxy_pair
 ## Catalog HI majors Pairs
-This table includes 440 HI detected galaxy pairs. The columns show 
+This table includes 575 HI detected paired galaxies. The columns show 
 - (1) the ID of matched galaxy in galaxy pairs; 
 - (2) HI ID in FASHI catalog; 
 - (3) R.A. of HI in degrees; 
 - (4) Decl. of HI in degrees; 
 - (5) projected separation of galaxy pairs in $h^{-1}\mathrm{kpc}$; 
-- (6) Stellar mass of galaxy from the MPA-JHU Catalog; 
-- (7) SFR from the MPA-JHU Catalog; 
+- (6) Stellar mass of galaxy from the MPA-JHU Catalog and GSWLC-X2; 
+- (7) SFR from the MPA-JHU Catalog and GSWLC-X2; 
 - (8) redshift of galaxy pair; 
 - (9) Velocity width of the HI line profile in $\mathrm{km\ s^{-1}}$ from FASHI catalog, measured at $50\%$ level of every peak by busy-function fitting; 
 - (10) Integrated HI line flux density in $\mathrm{mJy\ km\ s^{-1}}$ by busy-function fitting from FASHI catalog; 
