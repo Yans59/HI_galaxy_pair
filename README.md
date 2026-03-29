@@ -1,3 +1,5 @@
+# Paper
+The paper of this catalog is in : https://arxiv.org/abs/2603.22693
 # HI_galaxy_pair
 ## Catalog HI majors Pairs
 This table includes 575 HI detected paired galaxies. The columns show 
