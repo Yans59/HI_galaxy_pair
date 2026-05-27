@@ -12,10 +12,13 @@ This table includes 575 HI detected paired galaxies. The columns show
 - (7) SFR from the MPA-JHU Catalog and GSWLC-X2; 
 - (8) redshift of galaxy pair; 
 - (9) Velocity width of the HI line profile in $\mathrm{km\ s^{-1}}$ from FASHI catalog, measured at $50\%$ level of every peak by busy-function fitting; 
-- (10) Integrated HI line flux density in $\mathrm{mJy\ km\ s^{-1}}$ by busy-function fitting from FASHI catalog; 
-- (11) HI mass; 
-- (12) redshift of HI from FASHI catalog; 
-- (13) type of galaxy pair
+- (10) Integrated HI line flux density in $\mathrm{mJy\ km\ s^{-1}}$ by busy-function fitting from FASHI catalog;
+- (11) Assigned HI line flux density using SDSS g-band flux in $\mathrm{mJy\ km\ s^{-1}}$; 
+- (12) HI mass;
+- (13) Assigned HI mass;
+- (14) Error of HI mass;
+- (15) redshift of HI from FASHI catalog; 
+- (16) type of galaxy pair
 
 ## Data in Feng19
 This table contains the full parameters of Feng+19.
